@@ -7,27 +7,18 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Beschreib den Fehler**
+Eine Kurzbeschreibung des Fehlers.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Nachstellen**
+Schritte um das Fehlverhalten zu erhalten.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Erwartung**
+Eine kurze Beschreibung der Erwartungshaltung.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Smartphone:**
+ - Gerät: [e.g. Samsung Galaxy 6]
+ - Androidversion: [e.g. 6.4]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Zusätzliches**
+Alles, was beim Beheben des Priblems tusätzlich nützlich sein könnte.
