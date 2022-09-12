@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Ziel**
-Eine kurze Zusammenfassung davon, was die Erweiterun erreichen soll.
+Eine kurze Zusammenfassung davon, was die Erweiterung erreichen soll.
 
 **Gewünschte Lösung**
 Falls möglich eine kurze Beschreibung wie das Ziel erreicht werden kann.
