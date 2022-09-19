@@ -1,6 +1,6 @@
-- name: Max Mustermann
-  born: 1988
-  death: 2222
+- name: Björn Büttner
+  born: 1989
+  death: null
   diagnosis:
   - Depression
-  whois: Bekannt durch seinen unglaublichen Namen
+  whois: Leitender Entwickler dieser App.
